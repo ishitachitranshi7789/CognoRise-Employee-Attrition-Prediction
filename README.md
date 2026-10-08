@@ -55,3 +55,16 @@ This project demonstrates an end-to-end employee attrition classification workfl
 
 ---
 Created as part of the CognoRise Infotech Machine Learning Internship.
+## Project Screenshots
+
+### 1. Dataset Overview
+![Dataset Overview](Screenshots/dataset_overview.png)
+
+### 2. Employee Attrition Distribution
+![Attrition Distribution](Screenshots/attrition_distribution.png)
+
+### 3. Model Comparison
+![Model Comparison](Screenshots/model_comparison.png)
+
+### 4. Feature Importance
+![Feature Importance](Screenshots/feature_importance.png)
